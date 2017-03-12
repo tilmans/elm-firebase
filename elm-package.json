@@ -13,7 +13,8 @@
         "Firebase.Database.Query",
         "Firebase.Database.Reference",
         "Firebase.Database.Snapshot",
-        "Firebase.Database.Types"
+        "Firebase.Database.Types",
+        "Firebase.Authentication"
     ],
     "native-modules": true,
     "dependencies": {
